@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = quentin.agasse@gmail.com
+	name = quentin agasse
